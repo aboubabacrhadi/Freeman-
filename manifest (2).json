@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Freeman",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Freeman",
+  "start_url": "/",
+  "theme_color": "#1db954",
+  "id": "/Freeman-/",
+  "description": "Application musicale Freeman."
+}
